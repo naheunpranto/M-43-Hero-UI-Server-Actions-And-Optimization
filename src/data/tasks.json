@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Complete React Fundamentals",
+    "description": "Finish React components, props, and state modules",
+    "status": "pending",
+    "priority": "high",
+    "category": "learning",
+    "dueDate": "2026-06-25"
+  },
+  {
+    "id": 2,
+    "title": "Build Portfolio Website",
+    "description": "Create and deploy a personal portfolio project",
+    "status": "in-progress",
+    "priority": "high",
+    "category": "project",
+    "dueDate": "2026-06-30"
+  },
+  {
+    "id": 3,
+    "title": "Practice DSA",
+    "description": "Solve 5 array and string problems",
+    "status": "pending",
+    "priority": "medium",
+    "category": "coding",
+    "dueDate": "2026-06-22"
+  },
+  {
+    "id": 4,
+    "title": "Learn MongoDB Aggregation",
+    "description": "Study aggregation pipeline and complete exercises",
+    "status": "pending",
+    "priority": "medium",
+    "category": "learning",
+    "dueDate": "2026-07-01"
+  },
+  {
+    "id": 5,
+    "title": "Update LinkedIn Profile",
+    "description": "Add latest MERN projects and skills",
+    "status": "completed",
+    "priority": "low",
+    "category": "career",
+    "dueDate": "2026-06-15"
+  },
+  {
+    "id": 6,
+    "title": "Read GRE Vocabulary",
+    "description": "Learn 20 new words from Vocabulary Mountain",
+    "status": "in-progress",
+    "priority": "high",
+    "category": "study",
+    "dueDate": "2026-06-21"
+  }
+]

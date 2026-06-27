@@ -103,7 +103,7 @@ const AddTask = ({ createATask }) => {
 
                   <Modal.Footer>
                     <Button variant="secondary">Cancel</Button>
-                    <Button type="submit">Submit Task</Button>
+                    <Button slot="close" type="submit">Submit Task</Button>
                   </Modal.Footer>
                 </form>
               </Surface>
